@@ -1,0 +1,18 @@
+{
+	"name": "lagan/template-readonly",
+	"type": "lagan-template",
+	"description": "Template for Lagan properties that use autovalue and can not be edited by the content editor.",
+	"keywords": ["lagan","read only","property","template"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Lútsen Stellingwerff",
+			"email": "lutsenstellingwerff@gmail.com",
+			"homepage": "http://www.hoverkraft.nl",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"lagan/template-installer-plugin": "*"
+	}
+}
